@@ -104,5 +104,5 @@ Esses são os desafios do Mundo 1 no curso!
 - [x] Desafio - 034
     > [Aumentos múltiplos](https://youtu.be/Sfadj_AzKHw)
 
-- [] Desafio - 035
+- [ ] Desafio - 035
     > [Analisando Triângulo v1.0](https://youtu.be/Xs2z_YxZjrY)
